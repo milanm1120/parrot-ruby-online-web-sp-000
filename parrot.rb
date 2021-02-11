@@ -8,4 +8,4 @@ def parrot(argument)
   argument
 end
 
-parrot
+parrot("Pretty Bird")
