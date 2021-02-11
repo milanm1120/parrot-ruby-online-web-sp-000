@@ -8,5 +8,3 @@ def make_plural(argument)
   # tree => trees
   argument + 's'
 end
-
-puts make_plural("tree")
