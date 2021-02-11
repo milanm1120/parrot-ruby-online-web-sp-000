@@ -9,4 +9,4 @@ def make_plural(argument)
   argument + 's'
 end
 
-parrot("Pretty Bird")
+make_plural("tree")
