@@ -9,4 +9,4 @@ def make_plural(argument)
   argument + 's'
 end
 
-make_plural("tree")
+puts make_plural("tree")
